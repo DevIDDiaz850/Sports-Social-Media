@@ -25,9 +25,6 @@ Aquí puedes ver algunas vistas de la aplicación:
 <img width="375" height="667" alt="9_Home" src="https://github.com/user-attachments/assets/b7932b1e-3731-4e8e-a9a3-e6bfd5c0f6b4" />
 
 
-*(Nota: Las imágenes están escaladas automáticamente por GitHub en la visualización del README para ajustarse, pero puedes especificar `width` si lo deseas más pequeño, aunque no es necesario si las originales ya son de un tamaño razonable.)*
-
------
 
 ### 🚀 **¿Cómo Ejecutar la Aplicación (Flutter)?**
 
